@@ -2,8 +2,11 @@
 
 Willkommen zur Webprogrammierung!
 
-## Hausübung bis 28. November
+## 28. November
 
+- transitions
+
+HÜ war:
 Pulse Website mit Bootstrap designen!
 Doku lesen hilft!!
 
