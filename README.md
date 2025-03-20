@@ -2,6 +2,16 @@
 
 Willkommen zur Webprogrammierung!
 
+## 2025-03-20
+
+**HÜ** bis 27.3. römische Zahlen konvertieren
+
+- to_roman
+- from_roman
+- 5 testfälle
+- parameterprüfung
+- .ts in .js umbenennen
+
 ## 2025-03-13
 
 **HÜ** in `main.js` ein anderes Objekt servieren
