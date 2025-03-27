@@ -115,7 +115,13 @@ function runTests() {
 const to_roman_input = document.getElementById("to-roman-number-input");
 const to_roman_output = document.getElementById("to-roman-number-output");
 const to_roman_button = document.getElementById("convertToRoman");
+to_roman_button.addEventListener("click", () => {
+    to_roman_output.innerText = toRoman(to_roman_input.valueAsNumber);
+});
 
 const from_roman_input = document.getElementById("from-roman-number-input");
 const from_roman_button = document.getElementById("convertFromRoman");
 const from_roman_output = document.getElementById("from-roman-number-output");
+from_roman_button.addEventListener("click", () => {
+    from_roman_output.innerText = fromRoman(from_roman_input.value);
+});
