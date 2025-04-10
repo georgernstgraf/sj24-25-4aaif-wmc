@@ -2,6 +2,17 @@
 
 Willkommen zur Webprogrammierung!
 
+## 2025-04-10
+
+Ideen zum Üben:
+
+Gegeben ein Array mit Zahlen: Schreibe eine Funktion, welche das Array sortiert.
+Array mit Personen: Sortiere nach bmi() absteigend (dickste zuerst)
+Array mit Zahlen: retourniere die Summe aller Zahlen
+Array mit Zahlen: retourniere die größte Zahl!
+Array mit Zahlen: gib nur die geraden zurück in einem Array
+Wichtig: forEach, filter, map, sort
+
 ## 2025-03-20
 
 **HÜ** bis 27.3. römische Zahlen konvertieren
