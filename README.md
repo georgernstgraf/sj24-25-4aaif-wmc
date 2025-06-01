@@ -2,6 +2,11 @@
 
 Willkommen zur Webprogrammierung!
 
+## PLF am 12.6
+
+Vorbereitung: [hier](2025-05-15_PLFB1_Javascript)
+Extra: POJO's als Function Parameters
+
 ## 2025-04-10
 
 Ideen zum Üben:
